@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elijah Oluwaseyifunmi Banjo
-- 👀 I’m interested in Software development using Python and also Full stack Web Development using MERN Stack
-- 🌱 I’m currently planning to learning ReactNative
-- 💞️ I’m looking to collaborate on Web development projects and Python projects
+- 👀 I’m interested in Software development and Engineering, BlockChain and CyberSecurity
+- 🌱 I’m currently planning to learning Cloud Computing using GCP
+- 💞️ I’m looking to collaborate on any kind of Software development Project
 - 📫 How to reach me elijahbanjo@gmail.com or +2349079891715
 
 <!---
