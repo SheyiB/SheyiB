@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elijah Oluwaseyifunmi Banjo
 - 👀 I’m interested in Software development and Engineering, Hardware Engineering, BlockChain and CyberSecurity
-- 🌱 I’m currently learning Key Backend Engineering Concepts and Go!
+- 🌱 I’m currently learning Key Backend Engineering Concepts, Go! and Rust🦀
 - 💞️ I’m looking to collaborate on any kind of Software development Project
 - 📫 How to reach me elijahbanjo@gmail.com or +2349079891715
 
